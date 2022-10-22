@@ -1,0 +1,9 @@
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\MyUtilityLibraries\bin\Debug\netstandard2.0\MyUtilityLibraries.deps.json
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\MyUtilityLibraries\bin\Debug\netstandard2.0\MyUtilityLibraries.dll
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\MyUtilityLibraries\bin\Debug\netstandard2.0\MyUtilityLibraries.pdb
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\MyUtilityLibraries\obj\Debug\netstandard2.0\MyUtilityLibraries.AssemblyInfoInputs.cache
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\MyUtilityLibraries\obj\Debug\netstandard2.0\MyUtilityLibraries.AssemblyInfo.cs
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\MyUtilityLibraries\obj\Debug\netstandard2.0\MyUtilityLibraries.csproj.CoreCompileInputs.cache
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\MyUtilityLibraries\obj\Debug\netstandard2.0\MyUtilityLibraries.dll
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\MyUtilityLibraries\obj\Debug\netstandard2.0\MyUtilityLibraries.pdb
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\MyUtilityLibraries\obj\Debug\netstandard2.0\MyUtilityLibraries.csprojAssemblyReference.cache

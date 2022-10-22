@@ -1,0 +1,16 @@
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\Bai05\bin\Debug\netcoreapp3.1\Bai05.exe
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\Bai05\bin\Debug\netcoreapp3.1\Bai05.deps.json
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\Bai05\bin\Debug\netcoreapp3.1\Bai05.runtimeconfig.json
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\Bai05\bin\Debug\netcoreapp3.1\Bai05.runtimeconfig.dev.json
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\Bai05\bin\Debug\netcoreapp3.1\Bai05.dll
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\Bai05\bin\Debug\netcoreapp3.1\Bai05.pdb
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\Bai05\bin\Debug\netcoreapp3.1\MyUtilityClasses.dll
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\Bai05\bin\Debug\netcoreapp3.1\MyUtilityClasses.pdb
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\Bai05\obj\Debug\netcoreapp3.1\Bai05.csprojAssemblyReference.cache
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\Bai05\obj\Debug\netcoreapp3.1\Bai05.AssemblyInfoInputs.cache
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\Bai05\obj\Debug\netcoreapp3.1\Bai05.AssemblyInfo.cs
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\Bai05\obj\Debug\netcoreapp3.1\Bai05.csproj.CoreCompileInputs.cache
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\Bai05\obj\Debug\netcoreapp3.1\Bai05.csproj.CopyComplete
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\Bai05\obj\Debug\netcoreapp3.1\Bai05.dll
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\Bai05\obj\Debug\netcoreapp3.1\Bai05.pdb
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\Bai05\obj\Debug\netcoreapp3.1\Bai05.genruntimeconfig.cache

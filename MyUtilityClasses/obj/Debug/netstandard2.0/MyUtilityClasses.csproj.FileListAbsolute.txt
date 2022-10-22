@@ -1,0 +1,9 @@
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\MyUtilityClasses\bin\Debug\netstandard2.0\MyUtilityClasses.deps.json
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\MyUtilityClasses\bin\Debug\netstandard2.0\MyUtilityClasses.dll
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\MyUtilityClasses\bin\Debug\netstandard2.0\MyUtilityClasses.pdb
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\MyUtilityClasses\obj\Debug\netstandard2.0\MyUtilityClasses.csprojAssemblyReference.cache
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\MyUtilityClasses\obj\Debug\netstandard2.0\MyUtilityClasses.AssemblyInfoInputs.cache
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\MyUtilityClasses\obj\Debug\netstandard2.0\MyUtilityClasses.AssemblyInfo.cs
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\MyUtilityClasses\obj\Debug\netstandard2.0\MyUtilityClasses.csproj.CoreCompileInputs.cache
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\MyUtilityClasses\obj\Debug\netstandard2.0\MyUtilityClasses.dll
+C:\Users\19520\source\repos\ThucHanh LTTQ\LapTrinhTrucQuan_THBai2\MyUtilityClasses\obj\Debug\netstandard2.0\MyUtilityClasses.pdb
